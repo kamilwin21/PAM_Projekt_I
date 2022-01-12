@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto final</string>
+    <string name="show_notes">Ver notas</string>
+    <string name="position">Posición</string>
+    <string name="add">Agregar</string>
+    <string name="edit">Editando una nota</string>
+    <string name="edit1">Edición</string>
+    <string name="remove">Borrar</string>
+    <string name="statistics">Estadísticas</string>
+    <string name="count_of_notes">Notas creadas</string>
+    <string name="count_of_words">Número de palabras</string>
+    <string name="title">El título de la nota</string>
+    <string name="description">Descripción de la nota</string>
+</resources>

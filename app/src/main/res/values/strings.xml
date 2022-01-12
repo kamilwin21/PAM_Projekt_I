@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Projekt_zaliczeniowy</string>
+    <string name="show_notes">Wyświetl notatki</string>
+    <string name="position">Pozycja</string>
+    <string name="add">Dodaj</string>
+    <string name="edit">Edycja notatki</string>
+    <string name="edit1">Edytuj</string>
+    <string name="remove">Usuń</string>
+    <string name="statistics">Statystyki</string>
+    <string name="count_of_notes">Utworzone notatki</string>
+    <string name="count_of_words">Liczba wyrazów</string>
+    <string name="title">Tytuł notatki</string>
+    <string name="description">Opis notatki</string>
+</resources>
